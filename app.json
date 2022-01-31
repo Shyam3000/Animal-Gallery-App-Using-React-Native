@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "CorrectionDetailsApp",
+    "slug": "CorrectionDetailsApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "CorrectionDetailsApp"
+}
